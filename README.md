@@ -5,7 +5,9 @@ Currently focusing on building my portfolio through GitHub!
 
 ## 🛠 Tools
 **Data:** SQL (Oracle) · Python (pandas, NumPy, matplotlib) · R (dplyr, ggplot2)
+
 **BI:** Power BI · Excel
+
 **Statistics:** regression · hypothesis testing · econometrics
 
 ## 🔭 Projects
