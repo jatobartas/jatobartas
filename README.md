@@ -8,8 +8,6 @@ Currently focusing on building my portfolio through GitHub!
 
 **BI:** Power BI · Excel
 
-**Statistics:** regression · hypothesis testing · econometrics
-
 ## 🔭 Projects
 I'm quite new to GitHub so currently I'm building my Portfolio and uploading my projects. Stay tuned!
 
