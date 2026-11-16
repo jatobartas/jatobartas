@@ -13,5 +13,12 @@ Currently focusing on building my portfolio through GitHub!
 ## 🔭 Projects
 I'm quite new to GitHub so currently I'm building my Portfolio and uploading my projects. Stay tuned!
 
+### Pro-Environmental Attitudes and Behaviours: Survey Analysis in Power BI
+Exploratory analysis of a student survey (n = 26) on environmental knowledge, attitudes, willingness to pay and social media influence. Data cleaning and modelling in Power Query, six-page interactive report in Power BI, documented findings and limitations.
+
+**Tools:** Power BI, Power Query, Excel
+
+[View project](https://github.com/jatobartas/survey-analysis-powerbi)
+
 ## 📫 Contact
 [[LinkedIn](https://www.linkedin.com/in/bartosz-malinowski00/)] · malinowski.bartosz10@gmail.com
