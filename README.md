@@ -1,4 +1,4 @@
-# Hi, Bartek here 👋
+# Hi, I'm Bartek 👋
 I'm a Computer Science & Econometrics graduate and MSc student in Digital Supply Chains
 at Poznań University of Economics and Business. I'm an aspiring Data Analyst. 
 Currently focusing on building my portfolio through GitHub!
