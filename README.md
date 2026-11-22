@@ -12,7 +12,7 @@ at Poznań University of Economics and Business. Currently on an Erasmus+ exchan
 
 - **BI:** Power BI
 
-- **Other** MS Excel
+- **Other:** MS Excel
 
 ## 🌱 Currently Learning:
 - BigQuery
