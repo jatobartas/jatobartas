@@ -8,7 +8,7 @@ Currently focusing on building my portfolio through GitHub!
 
 **BI:** Power BI · Excel
 
-**Currently Learning:"** BigQuery · Looker Studio
+**Currently Learning:** BigQuery · Looker Studio
 
 ## 🔭 Projects
 I'm quite new to GitHub so currently I'm building my Portfolio and uploading my projects. Stay tuned!
