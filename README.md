@@ -4,9 +4,14 @@ at Poznań University of Economics and Business. I'm an aspiring Data Analyst.
 Currently focusing on building my portfolio through GitHub!
 
 ## 🛠 Tools
-**Data:** SQL (Oracle) · Python (pandas, NumPy, matplotlib) · R (dplyr, ggplot2)
 
-**BI:** Power BI · Excel
+- **Data Bases:** SQL
+
+- **Visualizations** Python (pandas, NumPy, matplotlib) · R (dplyr, ggplot2)
+
+- **BI:** Power BI
+
+- **Other** MS Excel
 
 **Currently Learning:** BigQuery · Looker Studio
 
