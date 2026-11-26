@@ -8,9 +8,9 @@ at Poznań University of Economics and Business. Currently on an Erasmus+ exchan
 
 - **Data Bases:** SQL
 
-- **Data visualization:** Python (pandas, NumPy, matplotlib) · R (dplyr, ggplot2)
+- **Data visualization:** R (dplyr, ggplot2) · Python (pandas, NumPy, matplotlib)
 
-- **BI:** Power BI
+- **BI:** Power BI (very basics of power query and DAX)
 
 - **Other:** MS Excel
   
