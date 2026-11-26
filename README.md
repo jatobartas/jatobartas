@@ -18,13 +18,13 @@ at Poznań University of Economics and Business. Currently on an Erasmus+ exchan
 - BigQuery
 - Looker Studio
 
+## 🔭 Projects
 ### Analysis of Olist an E-commerce Marketplace: BigQuery & Looker Studio
 Analysis of over 110k delivered order items from Olist - a Brazilian marketplace. The analysis covered sales trends, category prices, regional markets, delivery time and customer satisfaction. Data checks and cleaning of 9 raw tables in BigQuery. At the end - created a Looker Studio dashboard, and formed business recommendations.
 
 **Tools:** SQL (BigQuery), Looker Studio
 [View project](https://github.com/jatobartas/olist-pricing-analysis-bigquery)
 
-## 🔭 Projects
 ### Pro-Environmental Attitudes and Behaviours: Survey Analysis in Power BI
 Exploratory analysis of a student survey (n = 26) on environmental knowledge, attitudes, willingness to pay and social media influence. Data cleaning and modelling in Power Query, six-page interactive report in Power BI, documented findings and limitations.
 
